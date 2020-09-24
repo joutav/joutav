@@ -1,4 +1,11 @@
-### Oi, eu sou o Jão 👋
+## Oi, eu sou o Jão 👋
+
+Hoje estou ficando cada vez mais aficcionado no universo de data science. Cada nova descoberta descubro o quão complexo essa área pode ser e com certeza muito interessante. Estou me aperfeiçoando e, pelo jeito, sempre estarei. Caso você tenha alguma dica e sugestão para me dar fique a vontade, sou totalmente receptivo e ficarei muito feliz em poder aprender. Ahh, e se você encontrou algo legal fique tranquilo, pode me perguntar qualquer coisa.
+
+## Se quiser me encontrar :
+<br> Linkedin: https://www.linkedin.com/in/joao-victor-oliveira-magalhaes-676b071b4/
+<br> Twitter: https://twitter.com/jv_maga
+<br> email: jvo.maga@gmail.com
 
 <!--
 **joutav/joutav** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

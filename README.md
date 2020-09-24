@@ -3,8 +3,8 @@
 Hoje estou ficando cada vez mais aficcionado no universo de data science. Cada nova descoberta descubro o quão complexo essa área pode ser e com certeza muito interessante. Estou me aperfeiçoando e, pelo jeito, sempre estarei. Caso você tenha alguma dica e sugestão para me dar fique a vontade, sou totalmente receptivo e ficarei muito feliz em poder aprender. Ahh, e se você encontrou algo legal fique tranquilo, pode me perguntar qualquer coisa.
 
 ## O que estou aprendendo?
-No momento estudo data science através da linguagem python. Em meus repositorios você pode encontrar as bibliotecas com que estou trabalhando atualmente.
-
+ Estudo data science através da linguagem python no momento. Você pode encontrar as bibliotecas com que estou trabalhando atualmente (Pandas, Matplotlib, Seaborn). Ja ja machine learning.
+ 
 ## Se quiser me encontrar :
  - Linkedin: https://www.linkedin.com/in/joao-victor-oliveira-magalhaes-676b071b4/
  - Twitter: https://twitter.com/jv_maga

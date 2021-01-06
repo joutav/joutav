@@ -1,6 +1,6 @@
 ## Oi, eu sou o Jão 👋
 
-Hoje estou ficando cada vez mais aficcionado no universo de data science. Cada nova descoberta descubro o quão complexo essa área pode ser e com certeza muito interessante. Estou me aperfeiçoando e, pelo jeito, sempre estarei. Caso você tenha alguma dica e sugestão para me dar fique a vontade, sou totalmente receptivo e ficarei muito feliz em poder aprender. Ahh, e se você encontrou algo legal fique tranquilo, pode me perguntar qualquer coisa.
+Hoje estou ficando cada vez mais aficcionado no universo de data science. A cada nova descoberta, percebo o quão complexa e interessante essa área pode ser. Estou me aperfeiçoando e, pelo jeito, sempre estarei. Caso você tenha alguma dica e sugestão para me dar, fique a vontade, sou totalmente receptivo e ficarei muito feliz em poder aprender. Ahh, e se você encontrou algo legal fique tranquilo, pode me perguntar qualquer coisa.
 
 ## O que estou aprendendo?
  Estudo data science através da linguagem python no momento. Você pode encontrar as bibliotecas com que estou trabalhando atualmente nos meus reposiiórios.
